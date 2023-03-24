@@ -6,6 +6,7 @@ on:
       - main
       - new
       - lat-est
+      - test
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
