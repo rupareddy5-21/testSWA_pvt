@@ -6,7 +6,7 @@ on:
       - main
       - new
       - lat-est
-      - test
+      - invalidEnvironmentName
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
